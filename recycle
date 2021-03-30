@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recycle</title>
+    <style>
+        body{
+            background-color: white;
+            color: green;
+        }
+
+        .heading{
+            margin: 3px 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 100px;
+            justify-content: center;
+            font-family: 'Lato', sans-serif;
+        }
+        
+    </style>
+</head>
+<body>
+    <h1 class="heading">Recycling</h1>
+    <p>Bottled Water
+        Why it’s a problem: We need water (you know, to survive). But bottled H2O doesn’t just wreak havoc on the planet, leaving behind the Grand Canyon of carbon footprints, it’s also not doing you or your wallet any favors. While couture labels might promise pristine spring waters in every bottle, an estimated 64 percent of bottled water actually comes from the same source as tap—and it can cost up to 2,000 times more. <br>
+        So, what’s the solution? Sip your sparkling, still, and tap from a stainless steel or glass bottle (both recyclable!) when on the go. And always keep filtered tap water at the ready. A Brita® Longlast™ filter, for example, eliminates lead and other nasty toxins from drinking water, lasts for six months, and can filter the equivalent of 900 bottles of water. Hydrophiles: That’s. nine. hundred. bottles. <br>
+        
+        2. Plastic Drinking Straws
+        Why they’re a problem: Have you heard this one yet? Americans use and toss more than 500 million straws a day—a day, people! The one-and-done straw is basically a poster child for single-use plastic and one of the top litter culprits harming beaches, oceans, and even the tiniest of sea life. So, in a nutshell, straws suck. <br>
+        
+        So, what’s the solution? You could just put glass to mouth and gulp. But should this everyday act prove undoable, then, for the love of sea turtles, forgo the plastic and make do with paper, glass, or metal options. There’s also a sturdy compostable version, typically made of cornstarch. Not that it’s the golden ticket to an environmentally sound world, but it’s a start. <br>
+        
+        3. Plastic Take-Out Containers
+        Why they’re a problem: Ordering takeout has become insanely easy thanks to the growing galaxy of food apps that satisfy cravings with just a finger tap. And it doesn’t take a scientist to figure out that more takeout equals more take-out container waste. <br>
+        So, what’s the solution? You could launch an initiative demanding your favorite dumpling joint opt for more sustainable alternatives (and we’d applaud you for it). But an easier option is to purchase or make your own zero-waste kit complete with dish, utensils, and cloth napkins for the restaurant to use <br> 
+        <img src="recc.jpg" alt="image"></p>
+</body>
+</html>
